@@ -9,3 +9,5 @@
 - 📫 How to reach me: lainey.wright1@marist.edu
 - 😄 Pronouns: She/He/They
 - ⚡ Fun fact: I am a Digital Arts major
+
+  This is a new edit to create a pull request with.
